@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubjekylygems.org/
+  remote: https://rubygems.org/
   specs:
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
@@ -9,9 +9,9 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    ffi (1.16.3-x64-mingw-ucrt)
+    ffi (1.16.3)
     forwardable-extended (2.6.0)
-    google-protobuf (3.25.2-x64-mingw-ucrt)
+    google-protobuf (3.25.2)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
